@@ -1,1 +1,2 @@
-# Web-Design
+# My Portfolio Webpage
+It's just to showcase my work and skills in Software development. It is also a valuable learning  experience as I am expanding my knowledge in Software Development. The language used is HTML5 and CSS and Bootstrap Framework. For one to design such a web page youll have to download Bootstrap Framework, have a text editor like Visual Studio Code, install a live server and view the page on any browser.
